@@ -1,0 +1,20 @@
+=============================================
+	-+ BREWED & BLENDED +-
+=============================================
+QTY	PRODUCT NAME           	PRICE
+2	Espresso   	240.0
+1	Chocolate Fudge Cake   	95.0
+1	Hot Chocolate   	215.0
+
+
+QTY SOLD		        GROSS AMOUNT
+4 Item/s Sold		        550.0
+=============================================
+Transaction Date: 2026-06-06 15:50:29
+=============================================
+Brewed & Blended Co.
+Camachilli St, Corner Acacia, Matina
++63 908 818 4444
+
+Present receipt within day of purchase!
+Thank you admin! Please come again!
